@@ -1,0 +1,2 @@
+cd directoryname
+changes directory
